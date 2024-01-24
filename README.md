@@ -9,7 +9,7 @@ This repository contains implementations and explanations of various optimizatio
   - [Bisection Method](Bisection.py)
   - [Gradient Descent](Gradient.py)
   - [Newton raphson's Method](Newton_raph.py)
-  - [Lagrangian Optimization](#lagrangian-optimization)
+  - [Lagrangian Optimization](Lagrangian.py)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
