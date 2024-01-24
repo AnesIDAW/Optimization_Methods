@@ -6,6 +6,15 @@ This repository contains implementations and explanations of various optimizatio
 
 Optimization methods play a crucial role in various fields, including machine learning, mathematical modeling, and decision-making processes. This repository serves as a collection of implementations and explanations for several optimization algorithms.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Optimization Methods](#optimization-methods)
+  - [Gradient Descent](#gradient-descent)
+  - [Newton's Method](#newtons-method)
+  - [Lagrangian Optimization](#lagrangian-optimization)
+  - [Bisection Method](#Bisction.py)
+
 ## Usage
 
 To use the implementations in this repository, follow the instructions in each method's respective directory. Ensure you have the necessary dependencies installed.
