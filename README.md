@@ -2,18 +2,6 @@
 
 This repository contains implementations and explanations of various optimization methods commonly used in mathematical optimization and machine learning. The implemented methods include Gradient Descent, Newton's Method, Lagrangian Optimization, Bisection, and more.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Optimization Methods](#optimization-methods)
-  - [Gradient Descent](#gradient-descent)
-  - [Newton's Method](#newtons-method)
-  - [Lagrangian Optimization](#lagrangian-optimization)
-  - [Bisection Method](#bisection-method)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Optimization methods play a crucial role in various fields, including machine learning, mathematical modeling, and decision-making processes. This repository serves as a collection of implementations and explanations for several optimization algorithms.
