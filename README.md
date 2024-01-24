@@ -7,7 +7,7 @@ This repository contains implementations and explanations of various optimizatio
 - [Introduction](#introduction)
 - [Optimization Methods](#optimization-methods)
   - [Bisection Method](Bisection.py)
-  - [Gradient Descent](#gradient-descent)
+  - [Gradient Descent](Gradient.py)
   - [Newton's Method](#newtons-method)
   - [Lagrangian Optimization](#lagrangian-optimization)
 - [Usage](#usage)
