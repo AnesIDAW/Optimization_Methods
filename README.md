@@ -42,4 +42,4 @@ To use the implementations in this repository, follow the instructions in each m
 
 ```bash
 # Example command for running Gradient Descent
-python gradient_descent.py
+python Gradient.py
