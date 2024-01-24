@@ -8,7 +8,7 @@ This repository contains implementations and explanations of various optimizatio
 - [Optimization Methods](#optimization-methods)
   - [Bisection Method](Bisection.py)
   - [Gradient Descent](Gradient.py)
-  - [Newton's Method](#newtons-method)
+  - [Newton raphson's Method](Newton_raph.py)
   - [Lagrangian Optimization](#lagrangian-optimization)
 - [Usage](#usage)
 - [Contributing](#contributing)
