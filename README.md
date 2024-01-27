@@ -10,6 +10,8 @@ This repository contains implementations and explanations of various optimizatio
   - [Gradient Descent](Gradient.py)
   - [Newton raphson's Method](Newton_raph.py)
   - [Lagrangian Optimization](Lagrangian.py)
+  - [Golden Section Method](Golden_Section.py)
+  - [Quasi-Newton Method](Quasi_Newton.py)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,9 +38,17 @@ Newton's Method is an iterative root-finding algorithm that converges quickly to
 
 Lagrangian Optimization involves maximizing or minimizing a function subject to equality constraints. It is commonly used in constrained optimization problems.
 
+### Golden Section Method
+
+The Golden Section Method is a one-dimensional optimization algorithm used to find the minimum of a unimodal function within a specified interval. It is an iterative algorithm that efficiently narrows down the search interval by dividing it into two segments of the golden ratio.
+
+### Quasi-Newton Method
+
+The Quasi-Newton Method is an iterative optimization algorithm used to find the minimum of a multivariate function. It belongs to the family of quasi-Newton methods, which aim to approximate the inverse Hessian matrix (second-order derivative) without explicitly computing it.
+
 ## Usage
 
-To use the implementations in this repository, follow the instructions in each method's respective directory. Ensure you have the necessary dependencies installed.
+To use the implementations in this repository, follow the instructions in each method's respective script. Ensure you have the necessary dependencies installed.
 
 ```bash
 # Example command for running Gradient Descent
